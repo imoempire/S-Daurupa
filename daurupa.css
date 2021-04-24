@@ -1,0 +1,36 @@
+.navbar-default {
+    background-color: #f8f8f800;
+    border-color: #e7e7e7;
+    border: 0px;
+    margin-bottom: 100px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #0a0a0a;
+    font-size: 20px;
+}
+.btn-warning {
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 2px solid orangered;
+    background-color: orangered;
+}
+.navbar-brand > img {
+    margin-bottom: 20px;
+    height: 200px;
+    width: 300px;
+    margin-left: 85px;
+}
+.navbar-brand {
+    height: 50px;
+    padding: 1px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.navbar {
+    height: 90px;
+}
+.navbar-right{
+    padding-top: 60px; padding-right: 100px;
+}
+.thumbnail { border-radius: 10px;}
